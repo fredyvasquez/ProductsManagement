@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Category] (Table)
+       [dbo].[Customer] (Table)
+       [dbo].[Order] (Table)
+       [dbo].[Order_Product] (Table)
+       [dbo].[Product] (Table)
+       [dbo].[Product_Category] (Table)
+       [dbo].[FK_Order_Customer] (Foreign Key)
+       [dbo].[FK_Order_Product_Order] (Foreign Key)
+       [dbo].[FK_Order_Product_Product] (Foreign Key)
+       [dbo].[FK_Product_Category_Category] (Foreign Key)
+       [dbo].[FK_Product_Category_Product] (Foreign Key)
+
+** Supporting actions
