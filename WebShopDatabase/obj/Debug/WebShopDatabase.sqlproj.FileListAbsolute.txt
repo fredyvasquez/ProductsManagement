@@ -3,3 +3,8 @@ c:\Users\Fredy\documents\visual studio 2015\Projects\WebShop\WebShopDatabase\bin
 c:\Users\Fredy\documents\visual studio 2015\Projects\WebShop\WebShopDatabase\bin\Debug\WebShopDatabase.pdb
 c:\Users\Fredy\documents\visual studio 2015\Projects\WebShop\WebShopDatabase\obj\Debug\WebShopDatabase.dll
 c:\Users\Fredy\documents\visual studio 2015\Projects\WebShop\WebShopDatabase\obj\Debug\WebShopDatabase.pdb
+C:\Users\Fredy\Documents\Visual Studio 2015\Projects\WebShop\ProductsManagement\WebShopDatabase\bin\Debug\WebShopDatabase.dacpac
+C:\Users\Fredy\Documents\Visual Studio 2015\Projects\WebShop\ProductsManagement\WebShopDatabase\bin\Debug\WebShopDatabase.dll
+C:\Users\Fredy\Documents\Visual Studio 2015\Projects\WebShop\ProductsManagement\WebShopDatabase\bin\Debug\WebShopDatabase.pdb
+C:\Users\Fredy\Documents\Visual Studio 2015\Projects\WebShop\ProductsManagement\WebShopDatabase\obj\Debug\WebShopDatabase.dll
+C:\Users\Fredy\Documents\Visual Studio 2015\Projects\WebShop\ProductsManagement\WebShopDatabase\obj\Debug\WebShopDatabase.pdb

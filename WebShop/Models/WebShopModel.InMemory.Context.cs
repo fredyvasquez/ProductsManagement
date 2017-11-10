@@ -13,9 +13,9 @@ namespace WebShop.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class WebShopContext : DbContext
+    public partial class WebShopInMemoryContext : WebShopContext
     {
-        public WebShopContext(string connection) : base(connection)
+        public WebShopInMemoryContext() : base("DefaultConnection")
         {
         }
     
@@ -23,10 +23,6 @@ namespace WebShop.Models
         {
             //throw new UnintentionalCodeFirstException();
         }
-    
-        public virtual DbSet<Category> Categories { get; set; }
-        public virtual DbSet<Customer> Customers { get; set; }
-        public virtual DbSet<Order> Orders { get; set; }
-        public virtual DbSet<Product> Products { get; set; }
+
     }
 }

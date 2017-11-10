@@ -10,5 +10,12 @@ namespace WebShop
         {
             
         }
+
+        //public void ConfigureServices(IServiceCollection services)
+        //{
+        //    services.AddDbContext<ApiContext>(opt => opt.UseInMemoryDatabase());
+
+        //    services.AddMvc();
+        //}
     }
 }

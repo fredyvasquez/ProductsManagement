@@ -12,7 +12,7 @@ namespace WebShop.Controllers
 {
     public class ProductsController : Controller
     {
-        private WebShopEntities db = new WebShopEntities();
+        private WebShopContext db = new WebShopContext("DefaultConnection");
 
         // GET: Products
         public ActionResult Index()
